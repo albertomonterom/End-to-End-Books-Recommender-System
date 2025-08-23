@@ -2,7 +2,6 @@ import yaml
 import sys
 from books_recommender.exception.exception_handler import AppException
 
-
 def read_yaml_file(file_path:str)->dict:
     """
     Reads a YAML file and returns the contents as a dictionary.
