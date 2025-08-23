@@ -16,7 +16,7 @@ End-to-end book recommendation system built with collaborative filtering
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/albertomonterom/End-to-End-Books-Recommender-System.git
-cd ai-medical-chatbot
+cd End-to-End-Books-Recommender-System
 ```
 
 ### 2. Create a virtual environment
