@@ -1,6 +1,16 @@
 # End-to-End-Books-Recommender-System
 End-to-end book recommendation system built with collaborative filtering
 
+## Workflow
+
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
 # How to run?
 
 ### 1. Clone the Repository
@@ -24,4 +34,9 @@ books\Scripts\activate      # Windows
 ### 3. Install Requirements
 ```bash
 pip install -r requirements.txt
+```
+
+Now run,
+```bash
+streamlit run app.py
 ```
